@@ -1,0 +1,6 @@
+[submodule "helm-controller"]
+	path = upstream/helm-controller
+	url = https://github.com/fluxcd/helm-controller
+[submodule "source-controller"]
+	path = upstream/source-controller
+	url = https://github.com/fluxcd/source-controller
