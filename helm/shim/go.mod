@@ -1,6 +1,6 @@
 module github.com/fluxcd/helm-controller/shim
 
-go 1.20
+go 1.21
 
 // Import from Git submodule to gather access to internal.
 replace github.com/fluxcd/helm-controller => ./../../upstream/helm-controller
