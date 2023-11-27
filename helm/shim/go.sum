@@ -179,8 +179,8 @@ github.com/felixge/httpsnoop v1.0.3 h1:s/nj+GCswXYzN5v2DpNMuMQYe+0DDwt5WVCU6CWBd
 github.com/felixge/httpsnoop v1.0.3/go.mod h1:m8KPJKqk1gH5J9DgRY2ASl2lWCfGKXixSwevea8zH2U=
 github.com/fluxcd/cli-utils v0.36.0-flux.1 h1:004HtB/p47xqkTCGZhc1vVuXNzef7+N3wT364eFk7WA=
 github.com/fluxcd/cli-utils v0.36.0-flux.1/go.mod h1:c+uMMDqGg8WKwBNeWKDDFEuDDHICDWAHthzosAKF2PA=
-github.com/fluxcd/helm-controller/api v0.36.0 h1:V48f/9W2Pv3LETREaCs7jkLh1LRI6J51kKY2UzUZjvQ=
-github.com/fluxcd/helm-controller/api v0.36.0/go.mod h1:zkcRy3PxG0NoxSY5SjiSA5tWOGa6spIbWsChQY8FXqM=
+github.com/fluxcd/helm-controller/api v0.36.2 h1:9JaTc91yocG1oQkM/GMfpZ/nGPpliRjZBNwyAsW5584=
+github.com/fluxcd/helm-controller/api v0.36.2/go.mod h1:zkcRy3PxG0NoxSY5SjiSA5tWOGa6spIbWsChQY8FXqM=
 github.com/fluxcd/pkg/apis/acl v0.1.0 h1:EoAl377hDQYL3WqanWCdifauXqXbMyFuK82NnX6pH4Q=
 github.com/fluxcd/pkg/apis/acl v0.1.0/go.mod h1:zfEZzz169Oap034EsDhmCAGgnWlcWmIObZjYMusoXS8=
 github.com/fluxcd/pkg/apis/event v0.6.0 h1:AUaeee1CGWb65BLqVximHXG8Gcu6vWuYONIq6tVpjgo=
@@ -193,8 +193,8 @@ github.com/fluxcd/pkg/runtime v0.43.0 h1:dU4cWct5VTpddGzJUU80zxNl80jbbVEN5Y5rbt4
 github.com/fluxcd/pkg/runtime v0.43.0/go.mod h1:RuqJ9VEXELjzgurK2+UXBBgVN1vS0hZ7CYVG2xBAEVM=
 github.com/fluxcd/pkg/ssa v0.32.0 h1:RBqs9DNrbJkFHjpfsiKilyean7gwqWFspSBTLOaBIHs=
 github.com/fluxcd/pkg/ssa v0.32.0/go.mod h1:+Kf5euYAbvgJX645bo+IL7V/NlH0X7kGgFTr1W++I3c=
-github.com/fluxcd/source-controller/api v1.1.0 h1:JPtt9WTTqVNdJfPpea8q7fUWF/00kDihxbhISzcb0WE=
-github.com/fluxcd/source-controller/api v1.1.0/go.mod h1:ZLkaUd1KQIjtLPCvO63Ni5zpnSTVBAkeRgFBzMItbDQ=
+github.com/fluxcd/source-controller/api v1.1.2 h1:FfKDKVWnopo+Q2pOAxgHEjrtr4MP41L8aapR4mqBhBk=
+github.com/fluxcd/source-controller/api v1.1.2/go.mod h1:ZLkaUd1KQIjtLPCvO63Ni5zpnSTVBAkeRgFBzMItbDQ=
 github.com/foxcpp/go-mockdns v1.0.0 h1:7jBqxd3WDWwi/6WhDvacvH1XsN3rOLXyHM1uhvIx6FI=
 github.com/foxcpp/go-mockdns v1.0.0/go.mod h1:lgRN6+KxQBawyIghpnl5CezHFGS9VLzvtVlwxvzXTQ4=
 github.com/frankban/quicktest v1.14.3 h1:FJKSZTDHjyhriyC81FLQ0LY93eSai0ZyR/ZIkd3ZUKE=
